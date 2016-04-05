@@ -1,0 +1,7 @@
+@import "./variable.scss";
+.container {
+  & > .btn {
+    font-size: $size;
+    box-shadow: 7px 7px 6px rgba(0,0,0,0.3);
+  }
+}
