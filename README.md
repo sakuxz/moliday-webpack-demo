@@ -1,9 +1,7 @@
 # MoliDay ─ Webpack Demo
 ## How to run it
 ```
-git clone git@github.com:tz5514/moliday-webpack-demo.git
-
-npm install webpack -g
+git clone https://github.com/tz5514/moliday-webpack-demo.git
 npm install
 
 node server.js
