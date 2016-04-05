@@ -56,6 +56,7 @@ module.exports = {
 
   // 插件功能
   plugins: [
+    
     //壓縮並混淆
     // new webpack.optimize.UglifyJsPlugin({
     //   sourceMap: false,
